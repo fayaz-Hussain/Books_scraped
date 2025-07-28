@@ -1,0 +1,19 @@
+# Core libraries for scraping
+beautifulsoup4==4.12.3
+requests==2.31.0
+
+# For automation with headless browser
+selenium==4.21.0
+
+# For data manipulation and CSV export
+pandas==2.2.2
+
+# Optional: used by BeautifulSoup
+lxml==5.2.1
+
+# For connection handling and retries
+urllib3==2.2.2
+
+# Built-in modules used (no need to install):
+# - time
+# - random
