@@ -68,7 +68,7 @@ books_scraper/
 ## ⚙️ Setup & Run
 
 ```bash
-git clone https://github.com/yourusername/books_scraper.git
+git clone https://github.com/fayaz-Hussain/books_scraper.git
 cd books_scraper
 pip install -r requirements.txt
 python scrape_books.py
